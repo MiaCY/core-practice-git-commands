@@ -2,7 +2,7 @@ import pytest
 
 
 def always_returns_true():
-    return True
+    print("Let's make a conflict")
 
 
 def test_always_returns_true():
