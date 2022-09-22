@@ -3,7 +3,7 @@ import pytest
 
 
 def always_returns_true():
-    return 5
+    print("Let's make a conflict")
 
 
 def test_always_returns_true():
